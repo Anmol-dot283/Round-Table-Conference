@@ -1,7 +1,7 @@
 # How to deploy?
 [Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
 
-# Kenshin
+# RTC
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Anmol-dot283/Round-Table-Conference)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
