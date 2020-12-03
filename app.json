@@ -1,6 +1,6 @@
 
 {
-  "name": "Kenshin",
+  "name": "RTC",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/Anmol-dot283/Kenshinn",
+  "repository": "https://github.com/Anmol-dot283/Round-Table-Conference",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -38,7 +38,7 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 719195224 570400686 466337795"
+      "value": "1311769691"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",

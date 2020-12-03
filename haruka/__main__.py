@@ -24,21 +24,16 @@ PM_START = """Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for Lightning
+I'm group manager bot and Anti-spam for Round Table Conference Or RTC
+Im RTC Personal Power Ful Bot
 
-Activate Anti-spam protection in your BM by this command : 
+Activate Anti-spam protection in your RTC by this command : 
 /antispam on 
 
-Made from the source code of [Krish](t.me/krish1303y)
-
-
-
-
-
-
+A Power Manger Bot For RTC By [krish1303y](https://t.me/krish1303y)
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/kenshingrouphelpbot?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/rtcpersonalbot?startgroup=true).
 """
 
 
